@@ -1,0 +1,249 @@
+/* granatowy pasek z gory */
+
+.gdc-top-wrapper {
+    width: 100%;
+    position: fixed;
+    z-index: 9999;
+    background-color: #182638;
+    padding: 7px;
+}
+
+.gdc-top-bar {
+    max-width: 1160px;
+    margin: 0 auto;
+    text-align: right;
+    color: white !important;
+}
+
+.gdc-top-bar a {
+    color: white !important;
+    font-family: Paytone One;
+}
+
+body #site-logo a img {
+    width: 200px;
+}
+
+/* pasek z obrazkiem po lewej */
+
+#headerwrap.fixed-header #searchform-wrap, #headerwrap.fixed-header .header-bar, #headerwrap.fixed-header .social-widget, #headerwrap.fixed-header .search-button {
+    display: block;
+}
+#headerwrap.fixed-header #searchform-wrap, #headerwrap.fixed-header .header-bar, #headerwrap.fixed-header .social-widget, #headerwrap.fixed-header .search-button, #headerwrap.fixed-header .header-widget {
+    display: none;
+}
+.header-bar {
+    float: left;
+}
+
+#headerwrap.fixed-header #header {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: none !important;
+}
+
+
+
+
+element {
+    margin-top: 0px;
+}
+#pagewrap #headerwrap.fixed-header, .transparent-header #pagewrap #headerwrap.fixed-header {
+    background: none;
+        background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(255,255,255,0.65);
+}
+body.fixed-header.page-loaded #headerwrap.fixed-header {
+    position: fixed;
+}
+body.fixed-header.page-loaded #headerwrap {
+    position: fixed;
+}
+body.fixed-header.page-loaded #headerwrap {
+    position: absolute;
+}
+.fixed-header-on #headerwrap.fixed-header {
+    background-color: rgba(34,67,108,.9);
+}
+.sidemenu-active, .sidemenu-active #headerwrap {
+    left: 0;
+    transition: left .2s ease-in-out;
+}
+#headerwrap.fixed-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: height .3s;
+    background-color: rgba(255,255,255,.9);
+}
+#headerwrap {
+    margin-top: 35px !important;
+}
+.header-classic #headerwrap, #headerwrap {
+    background: none;
+    background-color: #ffffff;
+    background-size: cover;
+}
+#headerwrap {
+    background-color: #182638;
+    color: #fff;
+}
+#headerwrap {
+    color: #000;
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,.05);
+    position: relative;
+    width: 100%;
+    min-height: 55px;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    transition: all .3s ease-in-out;
+}
+img, textarea, input, #pagewrap, .pagewidth, #headerwrap, #header, #main-nav, #main-nav ul a, .sidemenu, .header-bar, #body, #layout, #content, .post, .post-content, .author-box, .post-nav, .post-nav .prev, .post-nav .next, .pagenav, #sidebar, .widget, #footerwrap, #footer, .col4-1, .col4-2, .col4-3, .col3-1, .col3-2, .col2-1 {
+    box-sizing: border-box;
+}
+html, body, address, blockquote, div, dl, form, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul, dd, dt, li, tbody, td, tfoot, th, thead, tr, button, del, ins, map, object, a, abbr, acronym, b, bdo, big, br, cite, code, dfn, em, i, img, kbd, q, samp, small, span, strong, sub, sup, tt, var, legend, fieldset, figure {
+    margin: 0;
+        margin-top: 0px;
+    padding: 0;
+}
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 30px;
+}
+body {
+    font: 1em/1.6em 'Open Sans',sans-serif;
+        font-weight: normal;
+        font-size: 1em;
+        line-height: 1.6em;
+        font-family: "Open Sans", sans-serif;
+    color: #636363;
+}
+body {
+    font: 1em/1.65em 'Open Sans',"Arial",sans-serif;
+    word-wrap: break-word;
+    color: #666;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+#header {
+    color: #1e1d2f;
+}
+#header {
+    text-align: inherit;
+}
+#header {
+    text-align: center;
+}
+#headerwrap {
+    color: #fff;
+}
+#headerwrap {
+    color: #000;
+}
+
+
+
+
+.slide-cart #main-nav-wrap {
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: relative;
+}
+#main-nav-wrap {
+    height: 200px;
+}
+
+#main-nav {
+    float: right;
+    transition: all .2s ease-in-out;
+    margin: 0;
+}
+#main-nav {
+    position: relative;
+}
+#main-nav {
+    margin: 0;
+    padding: 0;
+}
+img, textarea, input, #pagewrap, .pagewidth, #headerwrap, #header, #main-nav, #main-nav ul a, .sidemenu, .header-bar, #body, #layout, #content, .post, .post-content, .author-box, .post-nav, .post-nav .prev, .post-nav .next, .pagenav, #sidebar, .widget, #footerwrap, #footer, .col4-1, .col4-2, .col4-3, .col3-1, .col3-2, .col2-1 {
+    box-sizing: border-box;
+}
+ul, ol {
+    margin: 0 0 1.4em 1.6em;
+    padding: 0;
+}
+#main-nav li {
+    word-break: break-word !important;
+}
+#main-nav li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    display: inline-block;
+}
+
+#main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {
+    color: #fc3a59;
+}
+#main-nav a:hover, #main-nav ul a:hover, #main-nav .current_page_item > a, #main-nav .current-menu-item > a, #main-nav .mega-menu-posts a:hover {
+    color: #c4943a;
+}
+#main-nav .current_page_item > a, #main-nav .current-menu-item > a {
+    color: #ed1e24;
+}
+#main-nav a {
+    font-size: 16px;
+    text-transform: capitalize;
+    text-align: center;
+}
+#main-nav a {
+    letter-spacing: .04em;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: bold;
+    font-size: .85em;
+    text-transform: uppercase;
+    padding: 1.1em .85em 1.35em;
+}
+#main-nav a {
+    color: inherit;
+    display: block;
+    padding: .6em;
+    margin: 0;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+}
+.post-nav .arrow, a {
+    color: #22436c;
+}
+
+.builder_row_cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    transform: translateZ(0);
+}
+
+.themify_builder_content-10 .tb_98cbb15.module_row {
+    background-image: url(../images/header-home-page-gentle-dogs-club.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center center;
+    padding-top: 18%;
+    padding-bottom: 18%;
+    margin-top: -120px;
+}
